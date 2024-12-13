@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Fira+Mono:wght@400;500;700&display=swap");
+
+:root {
+  --primary-color: #0b9aea;
+  --secondary-color: #0b9aea;
+  --dark-color: #060e27;
+  --white-color: #ffffff;
+  --fira-code: "Fira Code", monospace;
+  --fira-mono: "Fira Mono", monospace;
+}
+
+body {
+  font-family: var(--fira-code);
+}
