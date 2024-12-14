@@ -9,6 +9,125 @@
   --fira-mono: "Fira Mono", monospace;
 }
 
+.darkmode {
+  background-color: var(--dark-color);
+}
+
 body {
   font-family: var(--fira-code);
+}
+
+.bg-primary {
+  background-color: var(--primary-color) !important;
+}
+
+.bg-secondary {
+  background-color: var(--secondary-color) !important;
+}
+
+.btn {
+  transition: all 0.3s;
+}
+
+button.btn:hover {
+  opacity: 0.85;
+}
+
+.sec-p {
+  padding: 3rem 0;
+}
+
+.font-bold {
+  font-weight: 800;
+}
+.font-semibold {
+  font-weight: 600;
+}
+.font-normal {
+  font-weight: 400;
+}
+
+.text-bigger {
+  font-size: 60px;
+}
+.text-big {
+  font-size: 32px;
+}
+.text-base {
+  font-size: 18px;
+}
+.text-small {
+  font-size: 16px;
+}
+.text-xSmall {
+  font-size: 14px;
+}
+
+/* Navbar Styling start */
+
+.nav-item .nav-link {
+  font-weight: 600;
+  transition: color 0.3s;
+  color: var(--dark-color);
+}
+.nav-item .nav-link:hover {
+  color: var(--primary-color);
+}
+.navbar-toggler:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+/* Navbar Styling end */
+
+/* Hero Section Start */
+.hero-content h1 span,
+.hero-content h2 span {
+  color: var(--primary-color);
+}
+/* Hero Section End */
+
+@media (max-width: 991px) {
+  .text-bigger {
+    font-size: 40px;
+  }
+  .text-big {
+    font-size: 24px;
+  }
+  .text-base {
+    font-size: 16px;
+  }
+  .text-small {
+    font-size: 14px;
+  }
+  .text-xSmall {
+    font-size: 12px;
+  }
+
+  .mobile-menu {
+    background: rgb(255, 255, 255);
+    padding: 1.5rem;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 1px 20px 0px;
+    border-radius: 10px;
+    margin-top: 1rem;
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    width: 100%;
+  }
+}
+
+@media (max-width: 576px) {
+  .text-bigger {
+    font-size: 30px;
+  }
+  .text-big {
+    font-size: 18px;
+  }
+  .text-base {
+    font-size: 14px;
+  }
+  .text-small {
+    font-size: 12px;
+  }
 }
