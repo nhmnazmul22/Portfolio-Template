@@ -11,8 +11,9 @@ const Pricing = () => {
       <div className="container">
         <SectionTitle text="Pricing" />
         <div className="row mt-5 pt-5">
-          {pricingData.map((pricing) => (
+          {pricingData.map((pricing, index) => (
             <motion.div
+              key={index}
               variants={fadeIn("up", 0.2)}
               initial="hidden"
               whileInView={"show"}

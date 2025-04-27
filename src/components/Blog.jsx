@@ -13,11 +13,11 @@ const Blog = () => {
         <div className="row mt-5 gap-5">
           {blogsData.map((blog, index) => (
             <motion.div
+              key={index}
               variants={fadeIn("up", 0.2)}
               initial="hidden"
               whileInView={"show"}
               viewport={{ once: false, amount: 0.7 }}
-              key={index}
               className="col-12"
             >
               <div className="row align-items-center gap-5 gap-md-0 justify-content-between">

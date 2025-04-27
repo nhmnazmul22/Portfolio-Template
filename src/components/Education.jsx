@@ -15,12 +15,12 @@ const Education = () => {
             if (index < 3) {
               return (
                 <motion.div
+                  key={index}
                   variants={fadeIn("up", 0.2)}
                   initial="hidden"
                   whileInView={"show"}
                   viewport={{ once: false, amount: 0.7 }}
                   className="col-12 col-md-6 col-lg-4 mb-4 mb-lg-3"
-                  key={index}
                 >
                   <div className="education h-100 border-0 text-center d-flex flex-column justify-content-center p-3">
                     <h5 className="text-base font-semibold border-bottom border-2 border-primary-subtle pb-3">
