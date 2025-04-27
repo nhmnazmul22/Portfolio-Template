@@ -5,7 +5,7 @@ import Button from "./common/Button";
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg py-3">
+    <nav className="navbar navbar-expand-lg py-3 position-sticky top-0 bg-white shadow-sm">
       <div className="container position-relative">
         <Link to="/" className="navbar-brand">
           <img src={Logo} alt="Nhm Nazmul" />
@@ -27,39 +27,39 @@ const Navbar = () => {
         >
           <ul className="navbar-nav ms-auto mb-2 mb-lg-0 gap-lg-3">
             <li className="nav-item">
-              <Link className="nav-link" aria-current="page" to="#hero">
+              <a className="nav-link" aria-current="page" href="#hero">
                 Home
-              </Link>
+              </a>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" aria-current="page" to="#about">
+              <a className="nav-link" aria-current="page" href="#about">
                 About
-              </Link>
+              </a>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" aria-current="page" to="#skills">
+              <a className="nav-link" aria-current="page" href="#skills">
                 Skills
-              </Link>
+              </a>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" aria-current="page" to="#services">
+              <a className="nav-link" aria-current="page" href="#services">
                 Services
-              </Link>
+              </a>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" aria-current="page" to="#portfolio">
+              <a className="nav-link" aria-current="page" href="#portfolio">
                 Portfolio
-              </Link>
+              </a>
             </li>
             <li className="nav-item">
-              <Link to="#blogs" className="nav-link" aria-current="page">
+              <a href="#blogs" className="nav-link" aria-current="page">
                 Blogs
-              </Link>
+              </a>
             </li>
             <li className="nav-item">
-              <Link to="#contact">
+              <a href="#contact">
                 <Button type="button" text="Contact" />
-              </Link>
+              </a>
             </li>
           </ul>
         </div>

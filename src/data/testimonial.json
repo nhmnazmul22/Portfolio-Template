@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Emily Davis",
+    "bio": "Freelance Photograph",
+    "img": "https://i.ibb.co.com/kMGg7Tm/client-1.png",
+    "description": "Nhm Nazmul did an amazing job on my portfolio website! It's sleek, professional, and easy to navigate. I’ve received so many compliments on it. Highly recommend!"
+  },
+  {
+    "id": 2,
+    "name": "Mark Thompson",
+    "bio": "Fitness Coach",
+    "img": "https://i.ibb.co.com/znMDjMX/client-2.png",
+    "description": "Nhm Nazmul did an amazing job on my portfolio website! It's sleek, professional, and easy to navigate. I’ve received so many compliments on it. Highly recommend!"
+  },
+  {
+    "id": 3,
+    "name": "Emily Davis",
+    "bio": "Freelance Photograph",
+    "img": "https://i.ibb.co.com/kMGg7Tm/client-1.png",
+    "description": "Nhm Nazmul did an amazing job on my portfolio website! It's sleek, professional, and easy to navigate. I’ve received so many compliments on it. Highly recommend!"
+  },
+  {
+    "id": 4,
+    "name": "Mark Thompson",
+    "bio": "Fitness Coach",
+    "img": "https://i.ibb.co.com/znMDjMX/client-2.png",
+    "description": "Nhm Nazmul did an amazing job on my portfolio website! It's sleek, professional, and easy to navigate. I’ve received so many compliments on it. Highly recommend!"
+  }
+]
