@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Template Design",
+    "description": "Our template design services provide customizable, professional templates for presentations, documents, marketing, websites, and emails, ensuring brand consistency and saving you time with user-friendly, visually appealing designs.",
+    "img": "https://i.ibb.co.com/G0g7JpH/web-design.png"
+  },
+  {
+    "id": 2,
+    "title": "Web Development",
+    "description": "Our template design services provide customizable, professional templates for presentations, documents, marketing, websites, and emails, ensuring brand consistency and saving you time with user-friendly, visually appealing designs.",
+    "img": "https://i.ibb.co.com/G0g7JpH/web-design.png"
+  },
+  {
+    "id": 3,
+    "title": "Landing Page",
+    "description": "Our template design services provide customizable, professional templates for presentations, documents, marketing, websites, and emails, ensuring brand consistency and saving you time with user-friendly, visually appealing designs.",
+    "img": "https://i.ibb.co.com/G0g7JpH/web-design.png"
+  },
+  {
+    "id": 4,
+    "title": "WordPress",
+    "description": "Our template design services provide customizable, professional templates for presentations, documents, marketing, websites, and emails, ensuring brand consistency and saving you time with user-friendly, visually appealing designs.",
+    "img": "https://i.ibb.co.com/G0g7JpH/web-design.png"
+  },
+  {
+    "id": 5,
+    "title": "Bug Fixing",
+    "description": "Our template design services provide customizable, professional templates for presentations, documents, marketing, websites, and emails, ensuring brand consistency and saving you time with user-friendly, visually appealing designs.",
+    "img": "https://i.ibb.co.com/G0g7JpH/web-design.png"
+  },
+  {
+    "id": 6,
+    "title": "E-Commerce",
+    "description": "Our template design services provide customizable, professional templates for presentations, documents, marketing, websites, and emails, ensuring brand consistency and saving you time with user-friendly, visually appealing designs.",
+    "img": "https://i.ibb.co.com/G0g7JpH/web-design.png"
+  }
+]

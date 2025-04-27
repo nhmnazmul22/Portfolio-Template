@@ -1,0 +1,66 @@
+{
+  "languageSkills": [
+    {
+      "name": "HTML",
+      "img": "https://i.ibb.co.com/NYKP0D7/html.png"
+    },
+    {
+      "name": "CSS",
+      "img": "https://i.ibb.co.com/w001nnw/css.png"
+    },
+    {
+      "name": "JavaScript",
+      "img": "https://i.ibb.co.com/zNKkk33/javascript.png"
+    },
+    {
+      "name": "Bootstrap",
+      "img": "https://i.ibb.co.com/F62VmyL/bootstrap.png"
+    },
+    {
+      "name": "React",
+      "img": "https://i.ibb.co.com/Yctvjm6/react.png"
+    },
+    {
+      "name": "Tailwind",
+      "img": "https://i.ibb.co.com/d5B81LP/Tailwind-Css.png"
+    },
+    {
+      "name": "Express.js",
+      "img": "https://i.ibb.co.com/8mcx5Yp/Frame.png"
+    },
+    {
+      "name": "Node.js",
+      "img": "https://i.ibb.co.com/26QhsyQ/node-js.png"
+    },
+    {
+      "name": "MongoDB",
+      "img": "https://i.ibb.co.com/bHYbyZM/Frame-1.png"
+    }
+  ],
+  "professionalSkills": [
+    {
+      "title": "MERN Stack Development",
+      "experience": "2+ Years",
+      "projectCompleted": "20+",
+      "img": "https://i.ibb.co.com/P69bjtC/webdevelopment.png"
+    },
+    {
+      "title": "WordPress Development",
+      "experience": "2+ Years",
+      "projectCompleted": "20+",
+      "img": "https://i.ibb.co.com/hLGB3P8/neon.png"
+    },
+    {
+      "title": "Website Bug Fixing",
+      "experience": "2+ Years",
+      "projectCompleted": "20+",
+      "img": "https://i.ibb.co.com/ZYVfpMp/bug.png"
+    },
+    {
+      "title": "Website UI Design",
+      "experience": "2+ Years",
+      "projectCompleted": "20+",
+      "img": "https://i.ibb.co.com/vZJGcmw/Website-Layout.png"
+    }
+  ]
+}

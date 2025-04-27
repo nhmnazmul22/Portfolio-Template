@@ -1,0 +1,11 @@
+Components: 
+  -Button
+  -SectionTitle
+  -SkillLogo
+  -SkillBox
+  -EducationBox
+  -ServicesBox
+  -ProjectBox
+  -TestimonialBox
+  -PricingBox
+  -BlogBox

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "packageName": "Starter Plan",
+    "description": "Essential tools and support for beginners.",
+    "features": [
+      "Basic Landing page",
+      "1-2 Page Design",
+      "Simple Bug Fixing",
+      "Bootstrap Library Using",
+      "Responsive Design",
+      "Basic SEO features",
+      "Basic documentation",
+      "Standard support",
+      "5 Revision",
+      "24 Hours Delivery"
+    ],
+    "price": "99"
+  },
+  {
+    "id": 2,
+    "packageName": "Pro Package",
+    "description": "Advanced features and priority support for growing projects",
+    "features": [
+      "Front-end Development",
+      "Full Website Design",
+      "Responsive and Seo Friendly",
+      "Using React & Tailwind Library",
+      "Standard Bug Fixing",
+      "Enhanced Security Features",
+      "Documentation With Video",
+      "Marketing Support",
+      "Unlimited Revision",
+      "7-10 Days Delivery"
+    ],
+    "price": "199"
+  },
+  {
+    "id": 3,
+    "packageName": "Premium Package",
+    "description": "Tailored solutions with unlimited resources for large-scale enterprises.",
+    "features": [
+      "MERN Stack Development ",
+      "Full Website with Back end",
+      "Responsive and Seo Friendly",
+      "Custom Admin Dashboard ",
+      "Domain & Server Uploaded",
+      "SEO & Marketing Support",
+      "Source code",
+      "Documentation With Video",
+      "Unlimited Revision",
+      "15-20 Days Delivery"
+    ],
+    "price": "299"
+  }
+]
